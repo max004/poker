@@ -1,2 +1,2 @@
 # poker
-Poker Programm
+Poker Programm für Auswertung der Wahrscheinlichkeit diverser Kombinationen
